@@ -2,7 +2,7 @@
 ## a reversible matrix and "cacheSolve" function which calculates the reverse of matrix cached
 ## in first matrix
 
-## caching a reversible matrix!
+## caching a reversible matrix!!
 
 makeCacheMatrix <- function(x = matrix()) {
   mat <- NULL
